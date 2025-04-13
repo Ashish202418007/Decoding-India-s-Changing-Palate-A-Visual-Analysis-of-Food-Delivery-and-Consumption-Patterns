@@ -1,13 +1,16 @@
 # Decoding-India-s-Changing-Palate-A-Visual-Analysis-of-Food-Delivery-and-Consumption-Patterns
 
-Introduction
-  Project Goals:
-To visually explore the trend of increasing expenditure on processed and 
-ready-to-eat food in India.To understand the role of food delivery platforms like Zomato in this trend, 
-particularly in urban areas.To identify patterns in Zomato order data related to food preferences and 
-location.To contextualize the rise of food delivery within broader economic and 
+## Introduction
+Project Goals:
+ 1. To visually explore the trend of increasing expenditure on processed and 
+ready-to-eat food in India.//
+2. To understand the role of food delivery platforms like Zomato in this trend, 
+particularly in urban areas.//
+3. To identify patterns in Zomato order data related to food preferences and 
+location.// 
+4. To contextualize the rise of food delivery within broader economic and 
 consumption trends in India.
-Narrative:
+## Narrative:
 The growing spending on processed and ready-to-eat food in India is primarily 
 driven by rising disposable incomes and changing urban lifestyles, rather than 
 solely by the emergence of food delivery platforms like Zomato. As economic 
@@ -22,7 +25,7 @@ toward convenient and time-saving meal solutions. However, while Zomato plays a
 crucial role in shaping consumption patterns, the underlying transformation is 
 rooted in broader socioeconomic and lifestyle changes that were already 
 underway.
-Context and Problem Statement
+## Context and Problem Statement
 → Background: Shifting Food Consumption Trends in an Urbanizing India
 India is undergoing rapid urbanization, with a significant portion of its population 
 migrating to cities in search of economic opportunities and improved lifestyles. 
