@@ -26,7 +26,7 @@ crucial role in shaping consumption patterns, the underlying transformation is
 rooted in broader socioeconomic and lifestyle changes that were already 
 underway.
 ## Context and Problem Statement
-→ Background: Shifting Food Consumption Trends in an Urbanizing India
+### Background: Shifting Food Consumption Trends in an Urbanizing India
 India is undergoing rapid urbanization, with a significant portion of its population 
 migrating to cities in search of economic opportunities and improved lifestyles. 
 This increasing urbanization has profoundly impacted traditional food 
@@ -37,13 +37,15 @@ food choices that fit these evolving lifestyles. This shift is not limited to ju
 of access but also encompasses a desire for variety and the experience of 
 restaurant-quality food without the constraints of cooking at home. Furthermore, 
 globalized food trends and increased exposure to different cuisines through media 
-and travel have also contributed to a diversification of Indian palates.→ Personal Observation and Broader Context
+and travel have also contributed to a diversification of Indian palates.
+### Personal Observation and Broader Context
 My own experience of increased reliance on Zomato for meals  after relocating to 
 a busy city initially sparked my curiosity about how such platforms influence our 
 food choices. While this shift highlighted the ease and convenience they offer, it 
 also made me wonder whether my experience was unique or part of a broader 
 pattern. This curiosity led me to examine national-level food consumption data to 
-better understand the larger impact of platforms like Zomato.→ National Trend: The Growing Preference for Processed Foods
+better understand the larger impact of platforms like Zomato.→
+### National Trend: The Growing Preference for Processed Foods
 Data from the Household Consumption Expenditure Survey reveals a significant 
 national trend: an increasing share of household expenditure is being directed Decoding India's Changing Palate: A Visual Analysis of Food Delivery and Consumption Patterns2
 towards processed and ready-to-eat food items. This share rose from 
